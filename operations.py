@@ -26,3 +26,12 @@ def calculate_results(first_operand, operator, second_operand):
 
 def clear_display():
     return ""
+
+
+
+def add_to_history(first_operand, operator, second_operand, result):
+
+    entry = str(first_operand) + operator + str(second_operand) + " = " + str(result) +"\n"
+
+    with open("history.txt", "a") as file:
+        file.write(entry)
