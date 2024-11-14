@@ -8,11 +8,14 @@ This project is my first step in learning Python GUI development with Tkinter. B
   1) Organizing layouts with Tkinter frames
   2) Styling widgets
   3) Implementing button functionalities
+  4) Inserting and deriving data from external files
+
 
 Features
 
   1) Basic Arithmetic: Perform addition, subtraction, multiplication, and division.
   2) Clear Button: Reset the display to start new calculations.
+  3) Shows the history of calculations
 
 
 Getting Started
