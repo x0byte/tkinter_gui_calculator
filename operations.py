@@ -19,6 +19,9 @@ def calculate_results(first_operand, operator, second_operand):
         result = first_operand * second_operand
     elif operator == "/" and second_operand != 0:
         result = first_operand / second_operand
+
+    elif operator == "^":
+        result = first_operand ** second_operand
     else:
         return "Error"
     
