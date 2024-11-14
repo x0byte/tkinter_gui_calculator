@@ -13,7 +13,7 @@ This project is my first step in learning Python GUI development with Tkinter. B
 
 Features
 
-  1) Basic Arithmetic: Perform addition, subtraction, multiplication, and division.
+  1) Basic Arithmetic: Perform addition, subtraction, multiplication, division and power.
   2) Clear Button: Reset the display to start new calculations.
   3) Shows the history of calculations
 
@@ -33,3 +33,6 @@ Run the application with:
 ```
 python main.py
 ```
+
+## This is what it looks like:
+<img src="assets/screenshot.png" alt="Calculator UI" width="600"/>
