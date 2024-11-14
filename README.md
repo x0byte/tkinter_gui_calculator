@@ -35,4 +35,4 @@ python main.py
 ```
 
 ## This is what it looks like:
-<img src="assets/screenshot.png" alt="Calculator UI" width="600"/>
+<img src="assets/screenshot.png" alt="Calculator UI" width="500"/>
