@@ -26,7 +26,7 @@ To run the calculator:
 
   2) Clone this repository and navigate to the project folder.
   ```
-  git clone https://github.com/x0byte/python_tkinter_gui_calculator.git
+  git clone https://github.com/x0byte/tkinter_gui_calculator.git
   ```
 
 Run the application with:
